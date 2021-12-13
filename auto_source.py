@@ -1,3 +1,5 @@
+#VPS, Replit version
+
 import os
 import random
 import string
