@@ -1,4 +1,4 @@
-# 3-char-github-names
+# non-taken-github-names
 # Program made by lewo n marci
  
 Auto updating list.
