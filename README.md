@@ -3,5 +3,6 @@
  
 Auto updating list.
 No duplicates.
+No taken names.
 
 # [Source](https://github.com/8nz/github-names)
